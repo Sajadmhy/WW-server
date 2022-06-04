@@ -1,5 +1,3 @@
-# vet-s-m
-
 ## Minor Collaboration
 
 This repo has been initialized for Sajad Mahyaei and Wish guys.
